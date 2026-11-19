@@ -1,0 +1,3 @@
+# app-ads.txt for Sugarkite, https://sugarkite.com
+# Google AdMob, the only ad network in Mia & Pippa: Cozy Shop Sort (line copied from AdMob, 2026-11-19)
+google.com, pub-3032943160020229, DIRECT, f08c47fec0942fa0
